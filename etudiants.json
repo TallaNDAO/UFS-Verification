@@ -1,0 +1,16 @@
+[
+  {
+    "id": "U221FS230011",
+    "prenom": "Assia",
+    "nom": "Ndao",
+    "date_creation": "2025-07-31",
+    "montant_blocage": 615
+  },
+  {
+    "id": "UFS230012",
+    "prenom": "Amadou",
+    "nom": "Diop",
+    "date_creation": "2025-07-15",
+    "montant_blocage": 8000
+  }
+]
